@@ -12,7 +12,7 @@ from numpy.random import seed
 from keras import utils as np_utils
 
 
-#Load data
+#Load dataa
 location = "....\breast-cancer-wisconsin.csv"
 df_BC = pd.read_csv(location, header=None)
 #input column names
